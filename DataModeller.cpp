@@ -17,7 +17,7 @@ void DataModeller::operator()()
         total += val;
     }
 
-    std::cout << "Average value is : "<< total/_goodPrice.size() <<"\n";
+    std::cout << "\nAverage value is : "<< total/_goodPrice.size() ;
 
 
 }

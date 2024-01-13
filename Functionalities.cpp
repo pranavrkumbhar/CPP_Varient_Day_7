@@ -24,7 +24,7 @@ void CreateObject(Container &data)
                 BusinessType::MNC
             ),
             //vector of floats
-            std::vector<float>{19.21f, 145.31f, 204.5f}
+            std::vector<float>{110.21f, 145.31f, 204.5f}
         )
     );
 }
